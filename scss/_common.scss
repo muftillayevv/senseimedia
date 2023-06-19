@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding:0;
+}
+* , *::after , *::before{
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Manrope';
+  background-color: #F7F6FF;
+}
+input{
+  outline: none;
+}
+a {
+  text-decoration: none;
+}
+button{
+  cursor: pointer;
+  border: none;
+}
+ul li{
+  list-style-type: none;
+}
